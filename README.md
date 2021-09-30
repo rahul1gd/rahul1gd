@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rahul1gd
+- 👋 Hi, I’m Rahul Kumar @rahul1gd.
 - 👀 I’m interested in Android Development.
 - 🌱 I’m currently learning Data Structure and Algorithm.
 
