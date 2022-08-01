@@ -1,5 +1,7 @@
 - 👋 Hi, I’m Rahul Kumar @rahul1gd.
-- 👀 I’m interested in Android Development.
+- 👀 I’m interested in Web Development.
+- 🤎 I have intermediate knowledge of HTML,CSS
+- 👌  And basic knowledge of JavaScript and ReactJs.
 - 🌱 I’m currently learning Data Structure and Algorithm.
 
 <!---
